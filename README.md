@@ -5,7 +5,7 @@ leecode —— 力扣算法练习
 
 # 学习记录
 ## 2022-01-24
-【掘金】[BOM的核心——window对象api盘点(https://juejin.cn/post/7056457558038413349) 
+【掘金】[BOM的核心——window对象api盘点](https://juejin.cn/post/7056457558038413349) 
 ## 2022-01-11
 【掘金】[闭包与柯里化、偏应用函数的关系](https://juejin.cn/post/7051607688668512292) 
 【掘金】[二叉搜索树的最近公共祖先](https://juejin.cn/post/7051916702388322341/)    
